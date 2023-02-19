@@ -9,7 +9,7 @@ python object_tracker5.py --weights ./checkpoints/yolov4-tiny-416 --model yolov4
 ## Results
 [![Demo](https://img.youtube.com/vi/N2NRBbaBJrM/0.jpg)](https://www.youtube.com/watch?v=N2NRBbaBJrM)
 
-You can find further information here: 
+You can find further information here: https://sites.google.com/view/pablovela/software/color-based-person-tracker
 
 <br />
 Project based on:
